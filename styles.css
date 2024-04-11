@@ -1,0 +1,46 @@
+/* CSS styles for the header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* CSS styles for the main content */
+main {
+    padding: 20px;
+}
+
+/* CSS styles for the input field and button */
+.container {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* CSS styles for the answer container */
+#answer {
+    font-size: 18px;
+    font-weight: bold;
+}
